@@ -1,0 +1,4 @@
+﻿[tool.poetry]
+name = "analisisdedatos"
+version = "0.1.0"
+description = "Modulo de analisis de datos"
