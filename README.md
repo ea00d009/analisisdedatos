@@ -20,5 +20,9 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
 
+## 🤝 Colaboradores y Contribuciones
+- **Desarrollador Principal**: `@ea00d009`
+- **Asistente de Pair Programming**: `@antigravity`
+
 ---
 *Repositorio configurado para la adquisición de insignias y prácticas de GitHub.*
